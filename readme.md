@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# 61030243
- 
-=======
-# CL62-03
-Computer Laboratory 1 : Lab 03
->>>>>>> CL62-03/master
-=======
-# Engedu
- 
->>>>>>> Engedu/master
-=======
-# Hello-World
->>>>>>> Hello-World/master
+# การทดลองที่ 3 การใช้งาน git ร่วมกับ Visual studio IDE
+
+## [ใบงานการทดลอง](Week-03.md)
