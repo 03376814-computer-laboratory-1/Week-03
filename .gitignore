@@ -4,6 +4,20 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.rsuser
+=======
+>>>>>>> CL62-03/master
+=======
+*.rsuser
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 *.suo
 *.user
 *.userosscache
@@ -12,6 +26,21 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Mono auto generated files
+mono_crash.*
+
+=======
+>>>>>>> CL62-03/master
+=======
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -19,6 +48,22 @@
 [Rr]eleases/
 x64/
 x86/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+=======
+>>>>>>> CL62-03/master
+=======
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 bld/
 [Bb]in/
 [Oo]bj/
@@ -36,9 +81,34 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+<<<<<<< HEAD
 # NUNIT
 *.VisualState.xml
 TestResult.xml
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+=======
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+>>>>>>> CL62-03/master
+=======
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+>>>>>>> Engedu/master
+=======
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -52,7 +122,21 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+<<<<<<< HEAD
 **/Properties/launchSettings.json
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+**/Properties/launchSettings.json
+>>>>>>> CL62-03/master
+=======
+>>>>>>> Engedu/master
+=======
+**/Properties/launchSettings.json
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # StyleCop
 StyleCopReport.xml
@@ -60,7 +144,23 @@ StyleCopReport.xml
 # Files built by Visual Studio
 *_i.c
 *_p.c
+<<<<<<< HEAD
 *_i.h
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+*_h.h
+=======
+*_i.h
+>>>>>>> CL62-03/master
+=======
+*_h.h
+>>>>>>> Engedu/master
+=======
+*_i.h
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 *.ilk
 *.meta
 *.obj
@@ -77,6 +177,20 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+*_wpftmp.csproj
+=======
+>>>>>>> CL62-03/master
+=======
+*_wpftmp.csproj
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 *.log
 *.vspscc
 *.vssscc
@@ -179,6 +293,20 @@ PublishScripts/
 
 # NuGet Packages
 *.nupkg
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# NuGet Symbol Packages
+*.snupkg
+=======
+>>>>>>> CL62-03/master
+=======
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 # The packages folder can be ignored because of Package Restore
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
@@ -203,12 +331,42 @@ BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.appxbundle
+*.appxupload
+=======
+>>>>>>> CL62-03/master
+=======
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
+<<<<<<< HEAD
 !*.[Cc]ache/
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+!?*.[Cc]ache/
+=======
+!*.[Cc]ache/
+>>>>>>> CL62-03/master
+=======
+!?*.[Cc]ache/
+>>>>>>> Engedu/master
+=======
+!*.[Cc]ache/
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # Others
 ClientBin/
@@ -221,7 +379,23 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
+<<<<<<< HEAD
 # Including strong name files can present a security risk 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Including strong name files can present a security risk
+=======
+# Including strong name files can present a security risk 
+>>>>>>> CL62-03/master
+=======
+# Including strong name files can present a security risk
+>>>>>>> Engedu/master
+=======
+# Including strong name files can present a security risk 
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
@@ -252,6 +426,22 @@ ServiceFabricBackup/
 *.bim.layout
 *.bim_*.settings
 *.rptproj.rsuser
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+=======
+>>>>>>> CL62-03/master
+=======
+*- Backup*.rdl
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -287,12 +477,41 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# CodeRush personal settings
+.cr/personal
+=======
+=======
+>>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 # JetBrains Rider
 .idea/
 *.sln.iml
 
+<<<<<<< HEAD
 # CodeRush
 .cr/
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+# CodeRush
+.cr/
+>>>>>>> CL62-03/master
+=======
+# CodeRush personal settings
+.cr/personal
+>>>>>>> Engedu/master
+=======
+# CodeRush
+.cr/
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
@@ -317,7 +536,23 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+<<<<<<< HEAD
 # Azure Stream Analytics local run output 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+# Azure Stream Analytics local run output
+=======
+# Azure Stream Analytics local run output 
+>>>>>>> CL62-03/master
+=======
+# Azure Stream Analytics local run output
+>>>>>>> Engedu/master
+=======
+# Azure Stream Analytics local run output 
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
@@ -326,5 +561,36 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
+<<<<<<< HEAD
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Engedu/master
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# BeatPulse healthcheck temp database
+<<<<<<< HEAD
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+=======
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> CL62-03/master
+=======
+healthchecksdb
+>>>>>>> Engedu/master
+=======
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> Hello-World/master
+>>>>>>> 61030243/master
