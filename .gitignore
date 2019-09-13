@@ -6,12 +6,15 @@
 # User-specific files
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.rsuser
 =======
 >>>>>>> CL62-03/master
 =======
 *.rsuser
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 *.suo
 *.user
 *.userosscache
@@ -22,6 +25,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Mono auto generated files
 mono_crash.*
 
@@ -29,6 +33,8 @@ mono_crash.*
 >>>>>>> CL62-03/master
 =======
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -38,6 +44,7 @@ x64/
 x86/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 =======
@@ -46,6 +53,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 bld/
 [Bb]in/
 [Oo]bj/
@@ -65,6 +74,7 @@ Generated\ Files/
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # NUnit
 *.VisualState.xml
 TestResult.xml
@@ -79,6 +89,11 @@ TestResult.xml
 *.VisualState.xml
 TestResult.xml
 >>>>>>> Engedu/master
+=======
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+>>>>>>> Hello-World/master
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -94,11 +109,15 @@ project.fragment.lock.json
 artifacts/
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 **/Properties/launchSettings.json
 >>>>>>> CL62-03/master
 =======
 >>>>>>> Engedu/master
+=======
+**/Properties/launchSettings.json
+>>>>>>> Hello-World/master
 
 # StyleCop
 StyleCopReport.xml
@@ -108,6 +127,7 @@ StyleCopReport.xml
 *_p.c
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *_h.h
 =======
 *_i.h
@@ -115,6 +135,9 @@ StyleCopReport.xml
 =======
 *_h.h
 >>>>>>> Engedu/master
+=======
+*_i.h
+>>>>>>> Hello-World/master
 *.ilk
 *.meta
 *.obj
@@ -133,12 +156,15 @@ StyleCopReport.xml
 *.tmp_proj
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *_wpftmp.csproj
 =======
 >>>>>>> CL62-03/master
 =======
 *_wpftmp.csproj
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 *.log
 *.vspscc
 *.vssscc
@@ -243,12 +269,15 @@ PublishScripts/
 *.nupkg
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # NuGet Symbol Packages
 *.snupkg
 =======
 >>>>>>> CL62-03/master
 =======
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 # The packages folder can be ignored because of Package Restore
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
@@ -275,17 +304,21 @@ _pkginfo.txt
 *.appx
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.appxbundle
 *.appxupload
 =======
 >>>>>>> CL62-03/master
 =======
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 !?*.[Cc]ache/
@@ -295,6 +328,9 @@ _pkginfo.txt
 =======
 !?*.[Cc]ache/
 >>>>>>> Engedu/master
+=======
+!*.[Cc]ache/
+>>>>>>> Hello-World/master
 
 # Others
 ClientBin/
@@ -309,6 +345,7 @@ orleans.codegen.cs
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Including strong name files can present a security risk
 =======
 # Including strong name files can present a security risk 
@@ -316,6 +353,9 @@ orleans.codegen.cs
 =======
 # Including strong name files can present a security risk
 >>>>>>> Engedu/master
+=======
+# Including strong name files can present a security risk 
+>>>>>>> Hello-World/master
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
@@ -348,6 +388,7 @@ ServiceFabricBackup/
 *.rptproj.rsuser
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *- [Bb]ackup.rdl
 *- [Bb]ackup ([0-9]).rdl
 *- [Bb]ackup ([0-9][0-9]).rdl
@@ -356,6 +397,8 @@ ServiceFabricBackup/
 =======
 *- Backup*.rdl
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -393,15 +436,19 @@ paket-files/
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CodeRush personal settings
 .cr/personal
 =======
 =======
 >>>>>>> Engedu/master
+=======
+>>>>>>> Hello-World/master
 # JetBrains Rider
 .idea/
 *.sln.iml
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # CodeRush
 .cr/
@@ -410,6 +457,10 @@ paket-files/
 # CodeRush personal settings
 .cr/personal
 >>>>>>> Engedu/master
+=======
+# CodeRush
+.cr/
+>>>>>>> Hello-World/master
 
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
@@ -436,6 +487,7 @@ OpenCover/
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Azure Stream Analytics local run output
 =======
 # Azure Stream Analytics local run output 
@@ -443,6 +495,9 @@ OpenCover/
 =======
 # Azure Stream Analytics local run output
 >>>>>>> Engedu/master
+=======
+# Azure Stream Analytics local run output 
+>>>>>>> Hello-World/master
 ASALocalRun/
 
 # MSBuild Binary and Structured Log
@@ -451,6 +506,7 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -474,3 +530,7 @@ MigrationBackup/
 =======
 healthchecksdb
 >>>>>>> Engedu/master
+=======
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> Hello-World/master

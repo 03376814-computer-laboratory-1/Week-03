@@ -10,7 +10,12 @@ namespace CL62_03
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello Computer Lab");
+=======
+            Console.WriteLine("Hello Computer lab.");
+
+>>>>>>> Hello-World/master
             Console.ReadKey();
         }
     }
